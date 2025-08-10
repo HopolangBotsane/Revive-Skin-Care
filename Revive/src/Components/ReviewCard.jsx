@@ -11,7 +11,7 @@ function ReviewCard(props) {
 MyComponent.propTypes = {
     reviewImg: PropTypes.src.isRequired,
     reviewName: PropTypes.string.isRequired,
-};
+}
 
 
 export default ReviewCard
