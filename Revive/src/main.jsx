@@ -1,5 +1,6 @@
 import { StrictMode } from 'react'
 import { createRoot } from 'react-dom/client'
+<<<<<<< Updated upstream
 import { createBrowserRouter, RouterProvider } from 'react-router-dom'
 // import App from './App.jsx'
 
@@ -24,6 +25,10 @@ const router = createBrowserRouter([
     element: <Contact/>
   }
 ])
+=======
+// import './index.css'
+import App from './App.jsx'
+>>>>>>> Stashed changes
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
