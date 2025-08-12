@@ -1,6 +1,7 @@
 import { StrictMode } from 'react'
 import { createRoot } from 'react-dom/client'
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 import { createBrowserRouter, RouterProvider } from 'react-router-dom'
 // import App from './App.jsx'
 
@@ -26,6 +27,8 @@ const router = createBrowserRouter([
   }
 ])
 =======
+=======
+>>>>>>> Stashed changes
 // import './index.css'
 import App from './App.jsx'
 >>>>>>> Stashed changes
